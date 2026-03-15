@@ -2,18 +2,11 @@
 
 Software Engineering student at FPT University — interested in web development and data science.
 
----
-
-**Contact**
-trinhhvu1109@gmail.com · [GitHub](https://github.com/trinhhvu)
-
----
 
 **Stack**
 
 React · JavaScript · Python · Pandas · Supabase · Streamlit · Git
 
----
 
 **Projects**
 
@@ -23,6 +16,4 @@ React v19 + Supabase + Netlify · Full CRUD admin dashboard · [Live](https://ba
 [Vietnam Weather Analysis](https://github.com/trinhhvu/vietnam-weather-analysis)
 Python + Pandas + Streamlit · End-to-end data pipeline across 6 cities · 4,000+ records
 
----
 
-*Open to internship opportunities.*
