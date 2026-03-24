@@ -12,6 +12,6 @@ React · JavaScript · Python · Pandas · Supabase · Streamlit · Git
 React v19 + Supabase + Netlify · Full CRUD admin dashboard · [Live](https://backalleyboiz.netlify.app/)
 
 [Vietnam Weather Analysis](https://github.com/trinhhvu/vietnam-weather-analysis)
-Python + Pandas + Streamlit · End-to-end data pipeline across 6 cities · 4,000+ records
+Python + Pandas + Streamlit · End-to-end data pipeline across 6 cities · 4,000+ records · [Live](https://vietnam-weather.streamlit.app/)
 
 
